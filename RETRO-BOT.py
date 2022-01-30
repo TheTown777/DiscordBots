@@ -434,5 +434,5 @@ async def on_ready():
                 await channel.send('hello am now online')
         print('Active in {}\n Member Count : {}'.format(guild.name,guild.member_count))
 if __name__ == "__main__" :
-    bot.run("ODg0NTUyODU4NjEwMDQ0OTU4.YTaKCw.y85ZfO6A6XsqLp0d_SkbsO7soik")  
+    bot.run("token")  
      
