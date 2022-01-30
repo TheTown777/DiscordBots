@@ -52,4 +52,4 @@ async def windows(ctx):
 async def cool(ctx):
     await ctx.send('@LakeTheImperial#9107 is cool')
 
-bot.run("ODg0NTUyODU4NjEwMDQ0OTU4.YTaKCw.y85ZfO6A6XsqLp0d_SkbsO7soik")
+bot.run("token")
