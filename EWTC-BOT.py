@@ -339,4 +339,4 @@ async def good_bot(ctx):
     channel = ctx.channel
     await channel.send(":D")
 
-bot.run("ODgzMDkwNDU3NTgyNzcyMjY0.YTE4FA.7YOfSjUAZLrZP3yjoIbiZF9EwUc")
+bot.run("tokenbruv")
